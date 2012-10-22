@@ -1,12 +1,17 @@
-# README for Roo
+I'm no longer maintaining this code. It looks like it's under active development here:
+
+https://github.com/Empact/roo
+
+Thanks!
+Hugh
+
+#  README for Roo
 
 Roo is available here and on Rubyforge. You can install the official release with 'gem install roo' or refer to the installation instructions below for the latest development gem. 
 
 Homepage: http://roo.rubyforge.org/
 
 Gemcutter: http://rubygems.org/gems/roo
-
-Note: I'm no longer maintaining this project and I don't think there's a publicly available repository for this code. If you want to contribute please see the roo google group and/or work with Thomas directly. 
 
 ## Installation
 
