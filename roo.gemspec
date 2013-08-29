@@ -143,7 +143,7 @@ Gem::Specification.new do |s|
     end
   else
     s.add_dependency(%q<spreadsheet>, [">= 0.6.4"])
-    s.add_dependency(%q<rubyzip>, [">= 0.9.1"])
+    s.add_dependency(%q<rubyzip>, ["~> 0.9.1"])
     s.add_dependency(%q<hpricot>, [">= 0.6"])
     s.add_dependency(%q<GData>, [">= 0.0.4"])
     s.add_dependency(%q<libxml-ruby>, [">= 1.1.3"])
